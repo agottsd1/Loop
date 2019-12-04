@@ -388,3 +388,9 @@
 /* The label of the workout mode toggle button */
 "Workout Targets" = "Träningsmål";
 
+/* Pump information mainscreen */
+"Pump Suspended" = "Pump stoppad";
+
+/* Pump information mainscreen */
+"Tap to Resume" = "Klicka för återstart";
+
