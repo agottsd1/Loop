@@ -51,3 +51,7 @@
 
 /* Acessibility label describing completion HUD waiting for first run */
 "Waiting for first run" = "Väntar på första körning";
+
+/* Pump information */
+"Replace Pod" = "Byt pod";
+
