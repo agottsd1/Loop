@@ -204,16 +204,16 @@
 "G5/G6 Transmitter" = "G5/G6 Sändare";
 
 /* The title of the glucose and prediction graph */
-"Glucose" = "Glukos";
+"Glucose" = "Blodsocker";
 
 /* The error message when glucose data is too old to be used. (1: glucose data age in minutes) */
-"Glucose data is %1$@ old" = "Glukosvärdet är %1$@ gammal";
+"Glucose data is %1$@ old" = "Blodsockervärdet är %1$@ gammalt";
 
 /* Description of error when glucose data is missing */
-"Glucose data not available" = "Glukosvärde ej tillgängligt";
+"Glucose data not available" = "Blodsockervärde ej tillgängligt";
 
 /* Title of the prediction input effect for glucose momentum */
-"Glucose Momentum" = "Momentant Glukos";
+"Glucose Momentum" = "Blodsockerändring";
 
 /* The placeholder text for the nightscout site URL credential */
 "https://mysite.herokuapp.com" = "https://mysite.herokuapp.com";
@@ -228,7 +228,7 @@
 "Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)" = "Insulin upptagen (E) × Insulinkänslighet (%1$@/E)";
 
 /* The title of the insulin delivery graph */
-"Insulin Delivery" = "Insulinleverans";
+"Insulin Delivery" = "Tillfört insulin";
 
 /* Details for missing data error when insulin effects are missing */
 "Insulin effects" = "Insulineffekt";
@@ -371,19 +371,19 @@
 "The transmitter ID can be found printed on the back of the device, on the side of the box it came in, and from within the settings menus of the receiver and mobile app." = "Sändar ID återfinns på sändarens undersida, på sidan av kartongen den kom i, och i inställningarna på mottagaren eller mobilappen.";
 
 /* The description of the switch which toggles retrospective correction effects */
-"This will more aggresively increase or decrease basal delivery when glucose movement doesn't match the carbohydrate and insulin-based model." = "Detta kommer att öka eller minska basal leverans mer aggresivt när glukosändringen inte matchar kolhydrat- och insulinbaserad modell.";
+"This will more aggresively increase or decrease basal delivery when glucose movement doesn't match the carbohydrate and insulin-based model." = "Detta kommer att öka eller minska basal leverans mer aggresivt när blodsockerändringen inte matchar kolhydrat- och insulinbaserad modell.";
 
 /* The short unit display string for international units of insulin */
 "U" = "E";
 
 /* The title of the alert controller used to select a duration for workout targets */
-"Use Workout Glucose Targets" = "Använd träningsmål för glukos";
+"Use Workout Glucose Targets" = "Använd träningsmål för blodsocker";
 
 /* Title of insulin model setting */
 "Walsh" = "Walsh";
 
 /* Explanation of suspend threshold */
-"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "När nuvarande eller prognostiserad glukos är under avstängningströskeln kommer Loop inte att rekommendera en bolus och kommer alltid att rekommendera en tillfällig bashastighet på 0 enheter per timme.";
+"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "När nuvarande eller prognostiserat blodsocker är under avstängningströskeln kommer Loop inte att rekommendera en bolus och kommer alltid att rekommendera en tillfällig bashastighet på 0 enheter per timme.";
 
 /* The label of the workout mode toggle button */
 "Workout Targets" = "Träningsmål";
