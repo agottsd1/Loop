@@ -3,13 +3,13 @@
 "CFBundleName" = "$(PRODUCT_NAME)";
 
 /* Privacy - Bluetooth Peripheral Usage Description */
-"NSBluetoothPeripheralUsageDescription" = "Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices.";
+"NSBluetoothPeripheralUsageDescription" = "Blåtand används för kommunikation med insulinpump och cgm.";
 
 /* Privacy - Face ID Usage Description */
-"NSFaceIDUsageDescription" = "Face ID is used to authenticate insulin bolus.";
+"NSFaceIDUsageDescription" = "Face ID används för authentisiering av insulin bolus.";
 
 /* Privacy - Health Share Usage Description */
-"NSHealthShareUsageDescription" = "Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation.";
+"NSHealthShareUsageDescription" = "Måltidsvärden från Hälsodatabasen används för beräkna glukospåverkan. Glukosvärden från Hälsodatabasen används för grafisk visning och momentan beräkning.";
 
 /* Privacy - Health Update Usage Description */
-"NSHealthUpdateUsageDescription" = "Carbohydrate meal data entered in the app and on the watch is stored in the Health database. Glucose data retrieved from the CGM is stored securely in HealthKit.";
+"NSHealthUpdateUsageDescription" = "Måltiders kolhydratsvärden skrivs in i appen och i klocka. Sparas i hälsodatabasen. Glukosvärden insamlande från CGM lagras skyddatt i hälsodatabasen.";
