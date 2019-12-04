@@ -77,7 +77,7 @@
 "Algorithm Settings" = "Inställningar Alogaritm";
 
 /* The title of the Amplitude service */
-"Amplitude" = "Förstärkning";
+"Amplitude" = "Amplitude";
 
 /* Subtitle of Rapid-Acting – Children preset */
 "An adjustment to the adult model based on empirical effects in children." = "Justering av vuxenmodell baserad på studier hos barn.";
@@ -99,7 +99,11 @@
 
 /* The title of the basal rate profile screen
    The title text for the basal rate schedule */
-"Basal Rates" = "Basal index";
+"Basal Rates" = "Basalschema";
+
+/* The unit of the basal rate profile screen
+   The units text for the basal rate schedule */
+"U/hr" = "E/timme";
 
 /* The label of the bolus entry button
    The notification title for a bolus failure */
@@ -114,6 +118,10 @@
 /* The title of the carb ratios schedule screen
    The title text for the carb ratio schedule */
 "Carb Ratios" = "Kolhydratindex";
+
+/* The units of the carb ratios schedule screen
+   The units text for the carb ratio schedule */
+"g/U" = "g/E";
 
 /* Title of the prediction input effect for carbohydrates */
 "Carbohydrates" = "Kolhydrater";
@@ -165,7 +173,22 @@
 "Delete Account" = "Radera kontoinställningar";
 
 /* Title text for delivery limits */
-"Delivery Limits" = "Doseringsbegränsningar";
+"Delivery Limits" = "Begränsningar insulin";
+
+/* Title basal rates */
+"MAXIMUM BASAL RATE" = "Maximal basal";
+
+/* Unit basal rates */
+"U/hour" = "E/timme";
+
+/* Title bolus rates */
+"MAXIMUM BOLUS RATE" = "Maximal bolus";
+
+/* Unit bolus rates */
+"Units" = "Enheter";
+
+/* Savebutton */
+"Save" = "Spara";
 
 /* The action hint of the workout mode toggle button when enabled */
 "Disables" = "Avbryts";
@@ -239,7 +262,7 @@
 
 /* The title of the insulin sensitivities schedule screen
    The title text for the insulin sensitivity schedule */
-"Insulin Sensitivities" = "Insulin Känslighet";
+"Insulin Sensitivities" = "Insulinkänslighet";
 
 /* The error message when invalid data was encountered. (1: details of invalid data) */
 "Invalid data: %1$@" = "Felaktig data: %1$@";
@@ -338,10 +361,13 @@
 "Retry" = "Försök igen";
 
 /* The title of the services section in settings */
-"Services" = "Service";
+"Services" = "Externa tjänster";
 
 /* The label of the settings button */
 "Settings" = "Inställningar";
+
+/* The label of the settings change */
+"Tap to set" = "Tryck för inställning";
 
 /* Loop Completion HUD accessibility hint */
 "Shows last loop error" = "Visa senaste loop-fel";
