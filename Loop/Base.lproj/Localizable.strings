@@ -388,3 +388,14 @@
 /* The label of the workout mode toggle button */
 "Workout Targets" = "Workout Targets";
 
+/* Pump information mainscreen */
+"Pump Suspended" = "Pump Suspended";
+
+/* Header information mainscreen */
+"Tap to Resume" = "Tap to Resume";
+
+/* Pod information mainscreen */
+"Repleace Pod" = "Repleace Pod";
+
+
+
