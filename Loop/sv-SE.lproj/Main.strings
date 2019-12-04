@@ -12,22 +12,22 @@
 "5oA-6d-ZTL.text" = "Bolus";
 
 /* Class = "UITextField"; accessibilityLabel = "Bolus Amount"; ObjectID = "7LT-50-ZzK"; */
-"7LT-50-ZzK.accessibilityLabel" = "Bolus Amount";
+"7LT-50-ZzK.accessibilityLabel" = "Bolusvärde";
 
 /* Class = "UITextField"; placeholder = "0.0"; ObjectID = "7LT-50-ZzK"; */
 "7LT-50-ZzK.placeholder" = "0.0";
 
 /* Class = "UILabel"; text = "Predicted"; ObjectID = "87H-N1-0vJ"; */
-"87H-N1-0vJ.text" = "Predicted";
+"87H-N1-0vJ.text" = "Prognås";
 
 /* Class = "UILabel"; accessibilityLabel = "Units"; ObjectID = "BR0-dr-Fj2"; */
-"BR0-dr-Fj2.accessibilityLabel" = "Units";
+"BR0-dr-Fj2.accessibilityLabel" = "Enheter";
 
 /* Class = "UILabel"; text = "U"; ObjectID = "BR0-dr-Fj2"; */
-"BR0-dr-Fj2.text" = "U";
+"BR0-dr-Fj2.text" = "E";
 
 /* Class = "UILabel"; text = "Future glucose is predicted by combining the effects of multiple inputs. Use this tool to toggle various inputs to see how they compare to the final prediction."; ObjectID = "D4C-I2-dhA"; */
-"D4C-I2-dhA.text" = "Future glucose is predicted by combining the effects of multiple inputs. Use this tool to toggle various inputs to see how they compare to the final prediction.";
+"D4C-I2-dhA.text" = "Framtida glukos förutsägs genom att kombinera effekterna av flera ingångar. Använd det här verktyget för att växla mellan olika ingångar för att se hur de jämför med den slutliga förutsägelsen.";
 
 /* Class = "UILabel"; text = "DEVICES"; ObjectID = "DyC-Sv-qP8"; */
 "DyC-Sv-qP8.text" = "DEVICES";
