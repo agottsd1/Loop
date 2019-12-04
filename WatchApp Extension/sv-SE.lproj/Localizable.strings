@@ -1,14 +1,14 @@
 /* Title of the user activity for adding carbs */
-"Add Carb Entry" = "Add Carb Entry";
+"Add Carb Entry" = "Ange kolhydrater";
 
 /* The title of the alert controller displayed after a bolus attempt fails */
-"Bolus Failed" = "Bolus Failed";
+"Bolus Failed" = "Bolus Misslyckad";
 
 /* The short unit display string for decibles */
 "dB" = "dB";
 
 /* The action button title to dismiss an error message */
-"Dismiss" = "Dismiss";
+"Dismiss" = "Avbryt";
 
 /* The short unit display string for grams */
 "g" = "g";
@@ -16,7 +16,7 @@
 /* The recovery message displayed after a bolus attempt fails
  The recovery message displayed after a carb entry send attempt fails
  The recovery message displayed after a glucose range override send attempt fails */
-"Make sure your iPhone is nearby and try again" = "Make sure your iPhone is nearby and try again";
+"Make sure your iPhone is nearby and try again" = "Se till att din iPhone är nära och försök igen";
 
 /* The short unit display string for milligrams of glucose per decilter */
 "mg/dL" = "mg/dL";
@@ -28,14 +28,14 @@
 "QUANTITY_VALUE_AND_UNIT" = "%1$@ %2$@";
 
 /* The label and value showing the recommended bolus */
-"Rec: %@ U" = "Rec: %@ U";
+"Rec: %@ U" = "Rek: %@ E";
 
 /* The title of the alert controller displayed after a carb entry send attempt fails
  The title of the alert controller displayed after a glucose range override send attempt fails */
-"Send Failed" = "Send Failed";
+"Send Failed" = "Skicka misslyckades";
 
 /* The short unit display string for international units of insulin */
-"U" = "U";
+"U" = "E";
 
 /* The short unit display string for international units of insulin delivery per hour */
-"U/hr" = "U/hr";
+"U/hr" = "E/tim";
