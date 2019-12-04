@@ -397,5 +397,6 @@
 /* Pod information mainscreen */
 "Repleace Pod" = "Repleace Pod";
 
-
+/* Formats setting Override */
+"Override Presets" = "Override Presets";
 
