@@ -391,6 +391,9 @@
 /* Pump information mainscreen */
 "Pump Suspended" = "Pump stoppad";
 
-/* Pump information mainscreen */
+/* Header information mainscreen */
 "Tap to Resume" = "Klicka för återstart";
+
+/* Pod information mainscreen */
+"Repleace Pod" = "Byt pod";
 
