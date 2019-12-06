@@ -95,7 +95,7 @@
 "Authenticate to Bolus %@ Units" = "Autentisera för Bolus %@ Enheter";
 
 /* Details for configuration error when basal rate schedule is missing */
-"Basal Rate Schedule" = "Basal Schema";
+"Basal Rate Schedule" = "Basalschema";
 
 /* The title of the basal rate profile screen
    The title text for the basal rate schedule */
@@ -154,14 +154,14 @@
 "Configuration Error: %1$@" = "Konfigurationsfel: %1$@";
 
 /* The title of the continuous glucose monitor section in settings */
-"Continuous Glucose Monitor" = "Kontinuerlig Glukos Mätare";
+"Continuous Glucose Monitor" = "Kontinuerlig Blodsocker Mätare";
 
 /* The title of the glucose target range schedule screen
    The title text for the glucose target range schedule */
 "Correction Range" = "Korrigeringsområde";
 
 /* Message when offering bolus recommendation even though bg is below range. (1: glucose value) */
-"Current glucose of %1$@ is below correction range." = " Glukosvärde %1$@ är under korrigeringsnivån.";
+"Current glucose of %1$@ is below correction range." = " Blodsocker %1$@ är under korrigeringsnivån.";
 
 /* The title of the Loggly customer token credential */
 "Customer Token" = "Användar Token";
@@ -418,7 +418,7 @@
 "Pump Suspended" = "Pump stoppad";
 
 /* Header information mainscreen */
-"Tap to Resume" = "Klicka för återstart";
+"Tap to Resume" = "Klicka för att återuppta";
 
 /* Pod information mainscreen */
 "Repleace Pod" = "Byt pod";
