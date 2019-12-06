@@ -27,7 +27,7 @@
 "BR0-dr-Fj2.text" = "E";
 
 /* Class = "UILabel"; text = "Future glucose is predicted by combining the effects of multiple inputs. Use this tool to toggle various inputs to see how they compare to the final prediction."; ObjectID = "D4C-I2-dhA"; */
-"D4C-I2-dhA.text" = "Framtida glukos förutsägs genom att kombinera effekterna av flera ingångar. Använd det här verktyget för att växla mellan olika ingångar för att se hur de jämför med den slutliga förutsägelsen.";
+"D4C-I2-dhA.text" = "Framtida blodsocker förutsägs genom att kombinera och beräkna effekterna av flera parametrar. Använd det här verktyget för att växla mellan olika beräkningsmodeller för att se hur de stämmer med den slutliga förutsägelsen.";
 
 /* Class = "UILabel"; text = "DEVICES"; ObjectID = "DyC-Sv-qP8"; */
 "DyC-Sv-qP8.text" = "DEVICES";
@@ -51,7 +51,7 @@
 "OFA-qT-ZAg.text" = "Etikett";
 
 /* Class = "UITableViewController"; title = "Predicted Glucose"; ObjectID = "PA3-sP-cWY"; */
-"PA3-sP-cWY.title" = "Förutsagd glukosvärde";
+"PA3-sP-cWY.title" = "Prognos blodsocker";
 
 /* Class = "UILabel"; text = "An insulin activity model is used to estimate effects of insulin on glucose levels. An accurate model can help prevent insulin stacking and safely recommend corrective treatments."; ObjectID = "PJv-p9-cFe"; */
 "PJv-p9-cFe.text" = "En insulinaktivitetsmodell används för att uppskatta effekten av insulin på glukosnivåer. En exakt modell kan hjälpa till att förhindra insulinstapling och på ett säkert sätt rekommendera korrigerande behandlingar.";
@@ -81,7 +81,7 @@
 "bIL-Ub-qYp.text" = "Etikett";
 
 /* Class = "UILabel"; text = "Glucose Change"; ObjectID = "bq4-98-cQU"; */
-"bq4-98-cQU.text" = "Glukosändring";
+"bq4-98-cQU.text" = "Blodsockerändring";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "cpo-Po-gFM"; */
 "cpo-Po-gFM.text" = "Etikett";
@@ -102,7 +102,7 @@
 "hZZ-2S-lrd.title" = "Kolhydrateffekter";
 
 /* Class = "UILabel"; text = "⚠ Glucose Predicted Below Range"; ObjectID = "k0g-P7-OVN"; */
-"k0g-P7-OVN.text" = "⚠ Glukosvärde förutsäges under inställd intervall";
+"k0g-P7-OVN.text" = "⚠ Blodsockerprognos under inställd gräns";
 
 /* Class = "UILabel"; text = "Recommended Basal"; ObjectID = "k3F-Na-7mn"; */
 "k3F-Na-7mn.text" = "Rekommenderad Basal";
@@ -123,7 +123,7 @@
 "pi6-Dh-72V.title" = "Insulinmodel";
 
 /* Class = "UILabel"; text = "Glucose"; ObjectID = "tuw-av-A3x"; */
-"tuw-av-A3x.text" = "Glukos";
+"tuw-av-A3x.text" = "Blodsocker";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "ufi-Kj-33k"; */
 "ufi-Kj-33k.text" = "Etikett";
