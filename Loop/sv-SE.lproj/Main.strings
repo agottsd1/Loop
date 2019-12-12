@@ -69,7 +69,7 @@
 "Wk3-xv-IM5.text" = "4 timmar";
 
 /* Class = "UIButton"; normalTitle = "Deliver"; ObjectID = "Ya0-9b-ZAS"; */
-"Ya0-9b-ZAS.normalTitle" = "Leverans";
+"Ya0-9b-ZAS.normalTitle" = "Distribution";
 
 /* Class = "UILabel"; text = "Detail"; ObjectID = "aCb-Qs-bpu"; */
 "aCb-Qs-bpu.text" = "Detaljer";
