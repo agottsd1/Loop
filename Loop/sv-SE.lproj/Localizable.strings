@@ -32,7 +32,7 @@
 "%1$@: %2$@" = "%1$@: %2$@";
 
 /* Formats absorbed carb value */
-"%@ absorbed" = "%@ upptagna";
+"%@ absorbed" = "%@ absorberade";
 
 /* The subtitle format describing total insulin. (1: localized insulin total) */
 "%@ U Total" = "%@ E Totalt";
